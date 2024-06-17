@@ -3,8 +3,7 @@ import type { ThemeConfig } from "valaxy-theme-yun";
 // import { addonWaline } from "valaxy-addon-waline";
 import { addonComponents } from "valaxy-addon-components";
 import { addonLightGallery } from "valaxy-addon-lightgallery";
-import { defineValaxyConfig } from 'valaxy'
-import { addonTwikoo } from 'valaxy-addon-twikoo'
+import { addonTwikoo } from 'valaxy-addon-twikoo';
 // import { VitePWA } from "vite-plugin-pwa";
 // import { addonMeting } from "valaxy-addon-meting";
 
